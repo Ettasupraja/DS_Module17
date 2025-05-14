@@ -21,8 +21,8 @@ To compose the code to determine whether the topological ordering for the follow
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: P JESHWANTH KUMAR
-RegisterNumber: 212223240114
+Developed by: ETTA SUPRAJA
+RegisterNumber: 212223220022
 */
 
 //#include<stdio.h>
